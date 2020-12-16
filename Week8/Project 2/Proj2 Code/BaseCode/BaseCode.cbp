@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BaseCode" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BaseCode" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BaseCode" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../An Expression Interpreter/divide.h" />
+		<Unit filename="../An Expression Interpreter/expression.h" />
+		<Unit filename="../An Expression Interpreter/literal.h" />
+		<Unit filename="../An Expression Interpreter/minus.h" />
+		<Unit filename="../An Expression Interpreter/module3.cpp" />
+		<Unit filename="../An Expression Interpreter/operand.cpp" />
+		<Unit filename="../An Expression Interpreter/operand.h" />
+		<Unit filename="../An Expression Interpreter/parse.cpp" />
+		<Unit filename="../An Expression Interpreter/parse.h" />
+		<Unit filename="../An Expression Interpreter/plus.h" />
+		<Unit filename="../An Expression Interpreter/subexpression.cpp" />
+		<Unit filename="../An Expression Interpreter/subexpression.h" />
+		<Unit filename="../An Expression Interpreter/symboltable.cpp" />
+		<Unit filename="../An Expression Interpreter/symboltable.h" />
+		<Unit filename="../An Expression Interpreter/times.h" />
+		<Unit filename="../An Expression Interpreter/variable.cpp" />
+		<Unit filename="../An Expression Interpreter/variable.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

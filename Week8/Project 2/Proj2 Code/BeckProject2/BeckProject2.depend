@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1608073748 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	"expression.h"
+	"subexpression.h"
+	"symboltable.h"
+	"parse.h"
+
+1608070749 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\expression.h
+
+1608071295 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\subexpression.h
+
+1608072828 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\symboltable.h
+
+1608061656 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\parse.h
+
+1608061654 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\operand.cpp
+	<cctype>
+	<iostream>
+	<sstream>
+	<list>
+	<string>
+	"expression.h"
+	"subexpression.h"
+	"operand.h"
+	"variable.h"
+	"literal.h"
+	"parse.h"
+	"or.h"
+	"and.h"
+	"equality.h"
+	"greaterThan.h"
+	"lessThan.h"
+	"ternary.h"
+	"negation.h"
+
+1608071170 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\operand.h
+
+1608072621 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\variable.h
+
+1608070979 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\literal.h
+
+1608071220 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\or.h
+
+1608070450 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\and.h
+
+1608070723 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\equality.h
+
+1608070793 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\greaterthan.h
+
+1608070828 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\lessthan.h
+
+1608072562 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\ternary.h
+
+1608071146 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\negation.h
+
+1608052125 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\parse.cpp
+	<cctype>
+	<iostream>
+	<sstream>
+	<string>
+	"parse.h"
+
+1608070168 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\subexpression.cpp
+	<iostream>
+	<sstream>
+	"expression.h"
+	"subexpression.h"
+	"operand.h"
+	"plus.h"
+	"minus.h"
+	"times.h"
+	"divide.h"
+	"or.h"
+	"and.h"
+	"equality.h"
+	"greaterThan.h"
+	"lessThan.h"
+	"ternary.h"
+	"negation.h"
+
+1608071270 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\plus.h
+
+1608071015 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\minus.h
+
+1608072580 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\times.h
+
+1608070478 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\divide.h
+
+1608072941 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\symboltable.cpp
+	<string>
+	<vector>
+	"symboltable.h"
+
+1608070349 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\beckproj2\variable.cpp
+	<strstream>
+	<vector>
+	"expression.h"
+	"operand.h"
+	"variable.h"
+	"symboltable.h"
+

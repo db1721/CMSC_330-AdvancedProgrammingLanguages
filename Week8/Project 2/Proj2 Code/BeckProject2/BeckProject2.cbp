@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BeckProject2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BeckProject2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BeckProject2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../BeckProj2/and.h" />
+		<Unit filename="../BeckProj2/divide.h" />
+		<Unit filename="../BeckProj2/equality.h" />
+		<Unit filename="../BeckProj2/expression.h" />
+		<Unit filename="../BeckProj2/greaterThan.h" />
+		<Unit filename="../BeckProj2/lessThan.h" />
+		<Unit filename="../BeckProj2/literal.h" />
+		<Unit filename="../BeckProj2/main.cpp" />
+		<Unit filename="../BeckProj2/minus.h" />
+		<Unit filename="../BeckProj2/negation.h" />
+		<Unit filename="../BeckProj2/operand.cpp" />
+		<Unit filename="../BeckProj2/operand.h" />
+		<Unit filename="../BeckProj2/or.h" />
+		<Unit filename="../BeckProj2/parse.cpp" />
+		<Unit filename="../BeckProj2/parse.h" />
+		<Unit filename="../BeckProj2/plus.h" />
+		<Unit filename="../BeckProj2/subexpression.cpp" />
+		<Unit filename="../BeckProj2/subexpression.h" />
+		<Unit filename="../BeckProj2/symboltable.cpp" />
+		<Unit filename="../BeckProj2/symboltable.h" />
+		<Unit filename="../BeckProj2/ternary.h" />
+		<Unit filename="../BeckProj2/times.h" />
+		<Unit filename="../BeckProj2/variable.cpp" />
+		<Unit filename="../BeckProj2/variable.h" />
+		<Unit filename="input.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

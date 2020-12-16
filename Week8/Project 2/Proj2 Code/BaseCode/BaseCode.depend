@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1608063483 source:c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\an expression interpreter\module3.cpp
+	<iostream>
+	<string>
+	<vector>
+	"expression.h"
+	"subexpression.h"
+	"symboltable.h"
+	"parse.h"
+
+1608056137 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\an expression interpreter\expression.h
+
+1608056137 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\an expression interpreter\subexpression.h
+
+1608056294 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\an expression interpreter\symboltable.h
+
+1608057393 c:\users\danbe\dropbox\all files\college\(2020-fall) cmsc-330\week8\proj2 code\an expression interpreter\parse.h
+
